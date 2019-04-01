@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">millionaire_castilloa15_game</string>
+    <string name="home2">Would you like to try again?</string>
+    <string name="log">Try Again</string>
+    <string name="home1">Your last answer was wrong.  Your total earnings from the prior game are:</string>
+    <string name="win">Congradulations!  You won the following amount of money:</string>
+
+</resources>
